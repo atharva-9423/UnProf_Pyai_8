@@ -1,0 +1,8 @@
+2026-06-28 23:38:41,865 | INFO | ===== Pipeline started =====
+2026-06-28 23:38:42,862 | INFO | Fetched 20 records from CoinGecko.
+2026-06-28 23:38:42,890 | INFO | Cleaned dataset shape: (20, 9)
+2026-06-28 23:38:42,895 | INFO | Analysis summary: {'total_coins': 20, 'avg_price_usd': 3129.1570052645, 'median_price_usd': 4.148, 'avg_change_24h_pct': -0.8843435, 'best_performer': 'Figure Heloc', 'best_performer_pct': 1.38373, 'worst_performer': 'Zcash', 'worst_performer_pct': -3.82339, 'total_market_cap': 1964893384624.0}
+2026-06-28 23:38:43,324 | INFO | Charts generated: bar, line, pie.
+2026-06-28 23:38:43,330 | INFO | Data saved to output\crypto_data.csv and output\crypto_data.json.
+2026-06-28 23:38:43,483 | INFO | PDF report generated: output\crypto_report.pdf
+2026-06-28 23:38:43,484 | INFO | ===== Pipeline completed successfully =====
